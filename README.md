@@ -1,7 +1,7 @@
 # Weather Dashboard  
 
 
- ![Screenshot](assets/images/weatherdashboard.png)
+ ![Screenshot](images/weatherdashboard.png)
 
 
 ## Functionality
@@ -19,7 +19,7 @@ Plan accordingly!
 
  
 
- ![Screenshot](assets/images/weatherdashboard.png)
+ ![Screenshot](images/weatherdashboard.png)
 
  
  
